@@ -43,11 +43,11 @@ a:focus {
 }
 .logo-img{
   /* height: 110px; */
-    width:186px;
+    /* width:186px; */
 }
 .log-set{
   position: relative;
-    top: -28px;
+  
 }
 img {
   max-width: 100%;
